@@ -1,2 +1,2 @@
 # Python-igra
-Igra random pogodi broju pythonu
+Igra pogodi random broj u pythonu
